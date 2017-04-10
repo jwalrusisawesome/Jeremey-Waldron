@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My website!
 
-You can use the [editor on GitHub](https://github.com/jwalrusisawesome/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is where I update status of all of my projects I am currently working on and have completed.  
 
 ### Markdown
 
