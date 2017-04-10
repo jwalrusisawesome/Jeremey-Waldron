@@ -40,7 +40,7 @@ The first competition GW Robotics competed in.
   *2017 Firefighting Robot*
 
 ### GW Rocket Team
-  Designed and programmed the GW Rocket Team's Telemetry system with programming assitance from Nam Tran.  
+  Designed and programmed the GW Rocket Team's Telemetry system with programming assitance from [Nam Tran](https://github.com/omn0mn0m).  
   
   Currently, the Rocket Team uses a 900mhz Xbee XSC S3B for radio transmission and an antenna which i made. 
   
