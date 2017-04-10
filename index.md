@@ -26,7 +26,7 @@ The first competition GW Robotics competed in.
 
 
 ### GW Rocket Team
-  Designed and programmed the GW Rocket Team's Telemetry system with programming assitance from Nam Tran.  
+  Designed and programmed the GW Rocket Team's Telemetry system with programming assitance from github user omn0mn0m.  
  
 
 ```markdown
