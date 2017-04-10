@@ -2,9 +2,17 @@
 
 Here is where I update status of all of my projects I am currently working on and have completed.  
 
-### Markdown
+### Electric Mountian Board
+  
+### 5.5 Watt Diode Laser Cutter/Engraver
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3d Printer
+
+### Rocket Telemetry
+
+### Firefighting Robot
+
+### ROV
 
 ```markdown
 Syntax highlighted code block
