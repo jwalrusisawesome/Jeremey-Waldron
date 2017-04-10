@@ -3,16 +3,31 @@
 Here is where I update status of all of my projects I am currently working on and have completed.  
 
 ### Electric Mountian Board
+  I designed and created an electric mountian board which I use to get around DC.  **pictures coming soon**
+
+
   
 ### 5.5 Watt Diode Laser Cutter/Engraver
+  I modified a BangGood 5.5 Laser engraver kit to cut balsa and black acrylic.  ** pictures coming soon**
 
 ### 3d Printer
+  ** still in shipment**  4/10/17
+ 
+ 
+### GW Robotics Team
+I founded the GW Robotics Team with my brother Josh Waldron and the help of my peers.
 
-### Rocket Telemetry
+  *2016 MATE Submarine*
+The first competition GW Robotics competed in.
 
-### Firefighting Robot
+  *2017 Firefighting Robot*
 
-### ROV
+   
+
+
+### GW Rocket Team
+  Designed and programmed the GW Rocket Team's Telemetry system with programming assitance from Nam Tran.  
+ 
 
 ```markdown
 Syntax highlighted code block
