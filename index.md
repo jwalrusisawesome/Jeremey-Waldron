@@ -1,14 +1,25 @@
 ## Welcome to My website!
 
-Here is where I update status of all of my projects I am currently working on and have completed.  
+Here is where I update status and post needed updates of all of my projects I am currently working on.  
 
 ### Electric Mountian Board
   I designed and created an electric mountian board which I use to get around DC.  **pictures coming soon**
+Specs: 
+- Dual 2400 watt brushless motors
+- 150amp brushless ESCs
+- Dual 6 cell 5.2 amphour lipo battery packs
 
+To Do:
+- Add flat spot to motor shaft to prevent set screw from slipping
+- create better box for housing electronics 
 
-  
 ### 5.5 Watt Diode Laser Cutter/Engraver
   I modified a BangGood 5.5 Laser engraver kit to cut balsa and black acrylic.  ** pictures coming soon**
+
+To Do:
+- add a compressor or blower to tool head to prevent smoke from unfocusing laser beam
+- add z axis for auto focusing 
+- add linear rods to x and y axis to improve stability at speed
 
 ### 3d Printer
   ** still in shipment**  4/10/17
@@ -27,6 +38,14 @@ The first competition GW Robotics competed in.
 
 ### GW Rocket Team
   Designed and programmed the GW Rocket Team's Telemetry system with programming assitance from github user omn0mn0m.  
+  
+  Currently, the Rocket Team uses a 900mhz Xbee XSC S3B 
+  
+  To do:
+  - repair electronics from launch
+  - make electronics capable of 30 G acceleration for competetion launch
+  - add real time data plotting for velocity, GPS, altitude, acceleration
+  - add real time data logging on both the ground station and in the nose cone
  
 
 ```markdown
